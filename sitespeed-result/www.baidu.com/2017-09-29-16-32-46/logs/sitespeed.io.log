@@ -1,0 +1,4 @@
+[2017-09-29 16:32:46] INFO: [sitespeedio] Versions OS: darwin 16.6.0 nodejs: v6.11.3 sitespeed.io: 5.6.2 browsertime: 1.8.1 coach: 0.36.0
+[2017-09-29 16:32:47] INFO: [sitespeedio.plugin.browsertime] Starting chrome for analysing https://www.baidu.com 5 time(s)
+[2017-09-29 16:33:25] INFO: [sitespeedio.plugin.html] Render HTML for 1 page(s) 
+[2017-09-29 16:33:28] INFO: [sitespeedio.plugin.html] HTML stored in /Users/baidu/sitespeed-result/www.baidu.com/2017-09-29-16-32-46
